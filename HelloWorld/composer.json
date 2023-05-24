@@ -1,0 +1,9 @@
+{
+    "name": "mark/hello-world",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
